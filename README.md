@@ -1,21 +1,21 @@
-# 📚 Curso: Introducción a la programación y al desarrollo de Software con Python
+# Curso: Introducción a la programación y al desarrollo de Software con Python
 Repositorio con los materiales para el curso.
 
 ---
 
-## 🌟 Contenido
+## Contenido
 
-- **Cuadernos autocontenidos:** Cada clase es un archivo `.ipynb` (mejor conocido como jupyter notebook o simplemente notebook) listo para ejecutar.
+- **Cuadernos autocontenidos:** La mayoría de las clases están contenidas en un archivo `.ipynb` (mejor conocido como jupyter notebook o simplemente notebook) listo para ejecutar.
 - **Enlaces a recursos externos:** Tutoriales, artículos históricos y herramientas en la nube.
 - **Configuraciones avanzadas (opcional):** Soporte para Pipenv y Conda
 
 ---
 
-## 🚀 ¿Cómo empezar?
+## Preguntas frecuentes
 
-### 1. *"¿Por qué debo aprender Python?"* 🤔  
+### 1. *"¿Por qué debo aprender Python?"*
 
-- **Respuesta corta:** Es una excelente pieza de software con el potencial de ser la mejor (o una de las mejores) herramienta para desarrollar un proyecto. 🔧  
+- **Respuesta corta:** Es una excelente pieza de software con el potencial de ser la mejor (o una de las mejores) herramienta para desarrollar un proyecto.
 - **Respuesta larga:** La programación en Python te permite realizar:  
   - Simulaciones numéricas.
   - Desarrollo web.
@@ -23,15 +23,16 @@ Repositorio con los materiales para el curso.
   - Realizar adquisión de datos.
   - Desarrollo de sistemas de control.
   - Implementar modelos de machine learning.
-  - *Bonus secreto:* Si te aburres, puedes programar un poema en código binario. 💻  
+  - Implementar modelos de procesamiento de lenguaje natural.
+  - Automatización.
 
-### 2. *"¿Me aprueba si solo veo los cuadernos?"* 😇  
+### 2. *"¿Me aprueba si solo veo los cuadernos?"* 
 
-- **Respuesta corta:** No. 🚫  
+- **Respuesta corta:** No.
 - **Respuesta larga:** Nooooooooooooooooooooooooooooooooooooooooooooooooo.  
   - **Motivo:** Ver no es igual a hacer. ¡Ejecuta el código, modifícalo, *experimenta*! 
 
-### 3. *"¿Qué hago si mi código da error?"* 🔥  
+### 3. *"¿Qué hago si mi código da error?"*
 
 - **Paso 1:** No entres en pánico (es normal).  
 - **Paso 2:** Lee el mensaje de error (la parte roja *a veces* ayuda).  
