@@ -5,7 +5,7 @@ Este curso emplea la distribución y entornos de desarrollo de [Conda](https://w
 
 Existen dos versiones del instalador: Anaconda y Miniconda. La diferencia principal entre ambos es que Anaconda incluye por default un entorno base más completo, además de una interfaz gráfica algo pesada, mientras que Miniconda solo tiene un entorno base básico que solo permite crear y administrar nuevos entornos. Por conveniencia y por motivos didácticos, descargaremos la versión Miniconda.
 
-![Miniconda](/img/C0 - Instalador_Miniconda.png)
+![Miniconda](/img/C0_Instalador_Miniconda.png)
 
 ## Para Windows
 
