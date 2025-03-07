@@ -1,5 +1,7 @@
 # Instalación de Python
-Esta es una pequeña guía de instalación para los sistemas operativos Windows y distribuciones Linux.
+Esta es una pequeña guía de instalación de Python (Conda) y git para los sistemas operativos Windows y distribuciones Linux.
+
+## Conda
 
 Este curso emplea la distribución y entornos de desarrollo de [Conda](https://www.anaconda.com/download/success). 
 
@@ -7,9 +9,9 @@ Existen dos versiones del instalador: Anaconda y Miniconda. La diferencia princi
 
 ![Miniconda](img/C0_Instalador_Miniconda.jpg)
 
-## Para Windows
+### Para Windows
 
-1. Descargar el instalador gráfico ![Instalador de Windows](img/C0_Instalador_Windows.jpg)
+1. Descargar el instalador gráfico ![Instalador Conda de Windows](img/C0_Instalador_Windows.jpg)
 
 2. Una vez descargado, se ejecuta el instalador.
 
@@ -43,9 +45,15 @@ Estas opciones son importante por las siguientes razones:
 
 ![Prueba de Conda en Windows 10](img/C0_Prueba_Windows.jpg)
 
-## Para distribuciones Linux
+### Para distribuciones Linux
 
-1. Descargar 
+1. Descargar el instalador de línea de comandos (el primero para la gran mayoría de usuarios) ![Instalador Conda de Distribuciones Linux](img/C0_Instalador_Linux.jpg)
+
+## Git
+
+Git es el software de control de versiones de proyectos más comúnmente empleado, con una gran compatibilidad de software de terceros que van desde los repositorios en línea como GitHub, GitLab y Azure, y editores de texto como VS Code o PyCharm. 
+
+Veremos como instalarlo tanto de 
 
 
 
