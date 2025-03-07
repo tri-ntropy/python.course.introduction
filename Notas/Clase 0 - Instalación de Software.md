@@ -5,7 +5,7 @@ Esta es una pequeña guía de instalación de Python (Conda) y git para los sist
 
 Este curso emplea la distribución y entornos de desarrollo de [Conda](https://www.anaconda.com/download/success). 
 
-Existen dos versiones del instalador: Anaconda y Miniconda. La diferencia principal entre ambos es que Anaconda incluye por default un entorno base más completo además de una interfaz gráfica que provoca que el instalador pese alrededor de 1GB, mientras que Miniconda solo tiene un entorno base básico que solo permite crear y administrar nuevos entornos, y pesa apenas unos 90MB. Por conveniencia y por motivos didácticos, descargaremos la versión Miniconda, señalada con el siguiente texto:
+Existen dos versiones del instalador: Anaconda y Miniconda. La diferencia principal entre ambos es que Anaconda incluye por default un entorno base más completo además de una interfaz gráfica que provoca que el instalador pese alrededor de 1GB, mientras que Miniconda solo tiene un entorno base básico que solo permite crear y administrar nuevos entornos, por lo cual pesa apenas unos 90MB. Por conveniencia y por motivos didácticos, descargaremos la versión Miniconda, señalada con el siguiente texto:
 
 ![Miniconda](img/C0_Instalador_Miniconda.jpg)
 
@@ -53,7 +53,13 @@ Estas opciones son importante por las siguientes razones:
 
 Git es el software de control de versiones de proyectos más comúnmente empleado, con una gran compatibilidad de software de terceros que van desde los repositorios en línea como GitHub, GitLab y Azure, y editores de texto como VS Code o PyCharm. 
 
-Veremos como instalarlo tanto de 
+Veremos como instalarlo tanto para Windows como Distribuciones Linux
+
+### Para Windows
+
+1. Descargar el instalador (de 64 bits para la mayoría de los usuarios) del link [Git Descarga](https://git-scm.com/downloads/win) ![Instalador git de Windows](img/C0_git_Windows.png)}
+
+2. Una vez descargado se ejecuta el instalador
 
 
 
