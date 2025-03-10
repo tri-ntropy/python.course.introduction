@@ -38,4 +38,4 @@ Repositorio con los materiales para el curso.
 - **Paso 2:** Lee el mensaje de error (la parte roja *a veces* ayuda).  
 - **Paso 3:** Usa ChatGPT para traducir el error a español
 
-
+lkadsñfñasdjfasdñfjasñdlfñjasdñfl
