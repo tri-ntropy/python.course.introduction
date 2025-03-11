@@ -39,3 +39,4 @@ Repositorio con los materiales para el curso.
 - **Paso 3:** Usa ChatGPT para traducir el error a español
 
 lkadsñfñasdjfasdñfjasñdlfñjasdñfl
+ñlasdkhfnaosdfhnasñdlfkhasdñfklhasdkñflhasdfñkashdflkasdfh
