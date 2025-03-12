@@ -11,7 +11,9 @@ Existen dos versiones del instalador: Anaconda y Miniconda. La diferencia princi
 
 ### Para Windows
 
-1. Descargar el instalador gráfico ![Instalador Conda de Windows](img/C0_Instalador_Windows.jpg)
+1. Descargar el instalador gráfico 
+
+![Instalador Conda de Windows](img/C0_Instalador_Windows.jpg)
 
 2. Una vez descargado, se ejecuta el instalador.
 
@@ -19,9 +21,15 @@ Existen dos versiones del instalador: Anaconda y Miniconda. La diferencia princi
 
 ![Usuarios de Miniconda](img/C0_Instalacion_Windows_usuarios.jpg)
 
-4. Al preguntar la ruta de instalación, es recomendable dejar la ruta default como se ve en la imagen
+4. Al preguntar la ruta de instalación, es recomendable dejar la ruta default como se ve en la imagen. 
 
 ![Ruta de Instalación de Miniconda](img/C0_Instalacion_Windows_ruta.jpg)
+
+Si tu nombre de usuario contiene un espacio, como por ejemplo "Antonio Rivera", es recomendable entonces cambiar la ruta de instalación como se muestra en las imágenes usando la opción "Browse..."
+
+![Ruta de Instalación de Miniconda Fix1](img/C0_Instalacion_Windows_ruta_fix01.jpg)
+
+![Ruta de Instalación de Miniconda Fix1](img/C0_Instalacion_Windows_ruta_fix02.jpg)
 
 5. Al llegar a esta ventana, activar todas las opciones. 
 
