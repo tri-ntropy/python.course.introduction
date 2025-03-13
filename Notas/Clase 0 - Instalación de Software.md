@@ -61,7 +61,7 @@ Estas opciones son importante por las siguientes razones:
 
 [Git](https://git-scm.com/downloads) es el software de control de versiones de proyectos más comúnmente empleado, con una gran compatibilidad de software de terceros que van desde los repositorios en línea como GitHub, GitLab y Azure, y editores de texto como VS Code o PyCharm. 
 
-Veremos como instalarlo tanto para Windows como Distribuciones Linux
+Veremos como instalarlo tanto para Windows como distribuciones Linux
 
 ### Para Windows
 
@@ -114,3 +114,13 @@ El proceso en Linux es muy sencillo, simplemente ir a la terminal y ejecutar
 ```bash
 sudo apt install git
 ```
+
+## Visual Studio Code o VS Code 
+
+**No confundir con Visual Studio, ese es otro software**
+
+[Visual Studio Code](https://code.visualstudio.com/) es un editor de textos (no confundir con procesador de textos, como Word o Google Docs), de código libre (en el 99% de todos sus componentes) y probablemente el más utilizado en la industria actualmente. Su fortaleza y popularidad radica principalmente en su fácil empleo, su amplia extensibilidad y configuración, y el como integra las herramientas de software como son el control de versiones (git), detección automática de entornos de desarrollo (conda, pipenv), así como debuggers y unit testers.
+
+A continuación veremos su proceso de instalación.
+
+### Para Windows
