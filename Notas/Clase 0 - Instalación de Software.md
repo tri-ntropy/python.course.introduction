@@ -1,5 +1,5 @@
 # Instalación de Python
-Esta es una pequeña guía de instalación de Python (Conda) y git para los sistemas operativos Windows y distribuciones Linux.
+Esta es una pequeña guía de instalación de Python (Conda), git, y VS Code para los sistemas operativos Windows y distribuciones Linux (Ubuntu o basadas en Ubuntu, como Linux  Mint).
 
 ## Conda
 
@@ -59,15 +59,58 @@ Estas opciones son importante por las siguientes razones:
 
 ## Git
 
-Git es el software de control de versiones de proyectos más comúnmente empleado, con una gran compatibilidad de software de terceros que van desde los repositorios en línea como GitHub, GitLab y Azure, y editores de texto como VS Code o PyCharm. 
+[Git](https://git-scm.com/downloads) es el software de control de versiones de proyectos más comúnmente empleado, con una gran compatibilidad de software de terceros que van desde los repositorios en línea como GitHub, GitLab y Azure, y editores de texto como VS Code o PyCharm. 
 
 Veremos como instalarlo tanto para Windows como Distribuciones Linux
 
 ### Para Windows
 
-1. Descargar el instalador (de 64 bits para la mayoría de los usuarios) del link [Git Descarga](https://git-scm.com/downloads/win) ![Instalador git de Windows](img/C0_git_Windows.png)}
+1. Descargar el instalador (de 64 bits para la mayoría de los usuarios) del link [Git Descarga](https://git-scm.com/downloads/win)
+
+![Instalador git de Windows](img/C0_git_Windows.jpg)
 
 2. Una vez descargado se ejecuta el instalador
 
+3. Al preguntar por la ruta de instalación, dejar la default
 
+![Ruta del instalador git de Windows](img/C0_git_Windows_instalacion_ruta.jpg)
 
+4. Al preguntar por los componentes, activar la penúltima y antepenúltima opción
+
+![Componentes del instalador git de Windows](img/C0_git_Windows_instalacion_componentes.jpg)
+
+5. A continuación hay una serie de pantallas con varias opciones a escoger, aquí es importante dejar seleccionadas **TODAS** las opciones default. Se dejan las capturas de pantalla con estas opciones para revisar y corregir en caso de algún accidente
+
+![Opciones del instalador git de Windows](img/C0_git_Windows_instalacion_opciones01.jpg)
+
+![Opciones del instalador git de Windows](img/C0_git_Windows_instalacion_opciones02.jpg)
+
+![Opciones del instalador git de Windows](img/C0_git_Windows_instalacion_opciones03.jpg)
+
+![Opciones del instalador git de Windows](img/C0_git_Windows_instalacion_opciones04.jpg)
+
+![Opciones del instalador git de Windows](img/C0_git_Windows_instalacion_opciones05.jpg)
+
+![Opciones del instalador git de Windows](img/C0_git_Windows_instalacion_opciones06.jpg)
+
+![Opciones del instalador git de Windows](img/C0_git_Windows_instalacion_opciones07.jpg)
+
+![Opciones del instalador git de Windows](img/C0_git_Windows_instalacion_opciones08.jpg)
+
+![Opciones del instalador git de Windows](img/C0_git_Windows_instalacion_opciones09.jpg)
+
+![Opciones del instalador git de Windows](img/C0_git_Windows_instalacion_opciones10.jpg)
+
+![Opciones del instalador git de Windows](img/C0_git_Windows_instalacion_opciones11.jpg)
+
+6. Al terminar, simplemente dejar que se complete la instalación y salir
+
+![Fin del instalador git de Windows](img/C0_git_Windows_instalacion_fin.jpg)
+
+### Para Linux
+
+El proceso en Linux es muy sencillo, simplemente ir a la terminal y ejecutar
+
+```bash
+sudo apt install git
+```
