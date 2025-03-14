@@ -19,13 +19,13 @@ El nombre de Python fue originalmente tomado de los Monty Python Flying Circus
 * Es multi-paradigma
 * Enfocado en la lectura y rápido desarrollo por humanos (pero nada evita que puedas escribir scripts, notebooks, módulos y paqueterías que nadie entienda)
 * Es *garbage collected*
-* Con *baterías incluídas*
+* Con *baterías incluídas* y altamente extensible
 
 ## Criticismo que ya no es válido desde hace varios años
 
 * *Python es un lenguaje lento (comparado con C o FORTRAN)*. 
 
-Python es lento si se emplea mal. Por lo regular quien argumenta que el lenguaje es lento convenientemente trata de probar su punto creando un ciclo for que itera más de 10000 veces para hacer una simple tarea (como encontrar el máximo en un arreglo/lista de números) y lo compara con C o FORTRAN, ignorando completamente que el ciclo for en Python tiene un comportamiento distinto al resto de lenguajes. Python ofrece una multitud de herramientas para realizar ese tipo de tareas sin necesidad de un ciclo for, que son virtualmente igual de rápidas en ejecución que C o FORTRAN, pero mucho más rápidas de escribir en Python.
+Python es lento si se emplea mal. Por lo regular quien argumenta que el lenguaje es lento convenientemente trata de probar su punto creando un ciclo for que itera más de 10000 veces para hacer una simple tarea (como encontrar el máximo en un arreglo/lista de números) y lo compara con C o FORTRAN, ignorando completamente que el ciclo for en Python tiene un comportamiento distinto al resto de lenguajes. Por otra parte, Python ofrece una multitud de herramientas para realizar ese tipo de tareas sin necesidad de un ciclo for, que son virtualmente igual de rápidas en ejecución que C o FORTRAN, pero mucho más rápidas de escribir en Python.
 
 Y hay que ser humildes: Al creador de cierto lenguaje de programación lo criticaron en su momento en su propio espacio de trabajo cuando sus colegas argumentaron que su creación no era útil ya que a nadie le gustaría ver como su proyecto se ejecuta más lento a que si lo escribiera directamente en lenguaje ensamblador o binario. ¿Cuál era este lenguaje? FORTRAN
 
@@ -51,7 +51,7 @@ En un ejemplo claro y reciente de esto, tenemos [DeepSeek](https://github.com/de
 
 * **Pero a mi me gusta hacer las cosas por mi mismo, y Python no te deja, ¡Siempre hay que importar alguna biblioteca!**
 
-¿Entonces por qué no programas directamente en ensamblador o binario?
+¿Entonces por qué no programas directamente en ensamblador o binario? En ensamblador no tienes siquiera ciclos for y muchas estructuras de datos básicas y ya dadas en cualquier lenguaje de alto nivel necesitan ser implementadas directamente por el desarrollador. Solo en ensamblador y binario puedes argumentar realmente que haces todo por ti mismo. 
 
 * **¡Python es un caos!, ¿Cual usar, Python 2.X.X o Python 3.X.X?**
 
