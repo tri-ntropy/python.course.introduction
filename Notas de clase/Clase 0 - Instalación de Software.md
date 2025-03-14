@@ -124,3 +124,47 @@ sudo apt install git
 A continuación veremos su proceso de instalación.
 
 ### Para Windows
+
+1. Descargamos VS Code para Windows 
+
+![Descarga VS Code de Windows](img/C0_vscode_Windows_descarga.jpg)
+
+2. Ejecutamos el instalador
+
+3. Damos la ruta de instalación como se ve en la imagen
+
+![Ruta de instalación VS Code de Windows](img/C0_vscode_Windows_ruta.jpg)
+
+4. Cuando lo pregunte, seleccionamos las siguientes opciones
+
+![Opciones de instalación VS Code de Windows](img/C0_vscode_Windows_opciones.jpg)
+
+5. Terminar la instalación
+
+### Para Linux
+
+Proximamente...
+
+Con estas tres piezas de software correctamente instaladas en el equipo, ya es momento de empezar a trabajar en nuestro **flujo de trabajo**.
+
+## Creando entornos de desarrollo con Conda
+
+### ¿Qué es un entorno de desarrollo?
+
+Python, así como muchos otros lenguajes de programación, cuenta con un universo de bibliotecas y paqueterías que ayudan al desarrollo de software ya que evita que el desarrollador deba "reinventar la rueda" cada que se encuentra con un problema que ya ha sido resuelto antes. 
+
+La solución inmediata que ofrece el lenguaje es instalar estas paqueterías empleando **pip**, sin embargo, algo que no dicen (o que llegamos a ignorar) es que si se hacen estas instalaciones mediante el flujo de trabajo usual, que es instalar Python y luego instalar las paqueterías con pip, es que se instala en el *entorno global*, es decir, que afectan a todo nuestro equipo. Esto no es un problema si solo se instalan pocas paqueterías pero al ir trabajando en diversos proyectos, estos requieren que se instalen una gran y diversa cantidad de paqueterías, muchas veces conflictuando entre si, y ocasionando serios desastres en un futuro que es más cercano de lo que se puede imaginar.
+
+Para evitar estos problemas, se crearon los **entornos de desarrollo virtuales**. Para entender fácilmente lo que es un entorno de desarrollo virtual, imagina lo siguiente: 
+
+Tienes un taller (tu equipo) donde solo puedes tener una version por cada herramienta que uses, este tu entorno de desarrollo global; un día te llega un nuevo trabajo que requiere un martillo diferente al que usualmente usas, como no puedes tener dos martillos en el taller y no puedes deshacerte del viejo martillo porque lo usas para otros trabajos más frecuentes (como pueden ser tareas usuales que realiza tu sistema operativo), optas por crear un entorno de trabajo virtual, que en este caso puedes considerarlo como una caja de herramientas aislada del resto del taller y que solo se abre (activa) cuando te dedicas a este trabajo en específico. De este modo, puedes tener los dos martillos sin ningún tipo de problema o conflicto. 
+
+De este modo, los entornos de desarrollo pueden virtuales pueden considerarse como cajas de herramientas armadas para un trabajo en concreto y que solo se activan cuando es necesario.
+
+### Además de Conda, ¿Qué alternativas se tienen y cual usar?
+
+Existen varios creadores y administradores de entornos de desarrollo para Python. En este curso nos vamos a enfocar en Conda pero existen otros como [Pipenv](https://pipenv.pypa.io/en/latest/) y [Poetry](https://python-poetry.org/). ¿Cuál es el mejor o cuál debería usar? La respuesta es muy sencilla: el que más te agrade para proyectos nuevos y en el caso de proyectos que ya llevan tiempo en desarrollo, el que se esté usando. 
+
+Hace algunos años Conda ofrecía ciertas ventajas sobre los demás pero conforme estos administradores han ido mejorando, realmente no hay diferencia significativa para Python, la única diferencia actual que todavía es considerable es que Conda puede crear entornos que incluya paquetería de lenguajes que no son Python, tal es el caso de R, C/C++ y FORTRAN. Con esto, si llega algún proyecto que requiera incluir otros lenguajes, Conda es buena opción.
+
+### ¿Cómo creo y administro entornos de desarrollo para Python?
