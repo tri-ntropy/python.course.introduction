@@ -159,12 +159,12 @@ Para evitar estos problemas, se crearon los **entornos de desarrollo virtuales**
 
 Tienes un taller (tu equipo) donde solo puedes tener una version por cada herramienta que uses, este tu entorno de desarrollo global; un día te llega un nuevo trabajo que requiere un martillo diferente al que usualmente usas, como no puedes tener dos martillos en el taller y no puedes deshacerte del viejo martillo porque lo usas para otros trabajos más frecuentes (como pueden ser tareas usuales que realiza tu sistema operativo), optas por crear un entorno de trabajo virtual, que en este caso puedes considerarlo como una caja de herramientas aislada del resto del taller y que solo se abre (activa) cuando te dedicas a este trabajo en específico. De este modo, puedes tener los dos martillos sin ningún tipo de problema o conflicto. 
 
-De este modo, los entornos de desarrollo pueden virtuales pueden considerarse como cajas de herramientas armadas para un trabajo en concreto y que solo se activan cuando es necesario.
+Así, los entornos de desarrollo pueden virtuales pueden considerarse como cajas de herramientas armadas para un trabajo en concreto y que solo se activan cuando es necesario.
 
 ### Además de Conda, ¿Qué alternativas se tienen y cual usar?
 
-Existen varios creadores y administradores de entornos de desarrollo para Python. En este curso nos vamos a enfocar en Conda pero existen otros como [Pipenv](https://pipenv.pypa.io/en/latest/) y [Poetry](https://python-poetry.org/). ¿Cuál es el mejor o cuál debería usar? La respuesta es muy sencilla: el que más te agrade para proyectos nuevos y en el caso de proyectos que ya llevan tiempo en desarrollo, el que se esté usando. 
+Existen varios creadores y administradores de entornos de desarrollo para Python. En este curso nos vamos a enfocar en Conda pero existen otros como [Pipenv](https://pipenv.pypa.io/en/latest/) y [Poetry](https://python-poetry.org/). ¿Cuál es el mejor o cuál debería usar? La respuesta es muy sencilla: el que más te agrade (o le agrade a tu equipo de proyecto) para proyectos nuevos y en el caso de proyectos que ya llevan tiempo en desarrollo, el que se esté usando. 
 
 Hace algunos años Conda ofrecía ciertas ventajas sobre los demás pero conforme estos administradores han ido mejorando, realmente no hay diferencia significativa para Python, la única diferencia actual que todavía es considerable es que Conda puede crear entornos que incluya paquetería de lenguajes que no son Python, tal es el caso de R, C/C++ y FORTRAN. Con esto, si llega algún proyecto que requiera incluir otros lenguajes, Conda es buena opción.
 
-### ¿Cómo creo y administro entornos de desarrollo para Python?
+### ¿Cómo creo y administro entornos de desarrollo para Python empleando Conda?
