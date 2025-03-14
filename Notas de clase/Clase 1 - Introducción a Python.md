@@ -35,7 +35,7 @@ import solution
 
 Lo cual efectivamente, muy frecuentemente es todo o la mayor parte de lo que se necesita para solucionar un problema. Sin embargo, recordemos que en general estamos hablando de programación: si una solución existe (podemos ser filosóficos aquí), es muy probable que existan más soluciones, algunas más rápidas y otras más precisas, y dependiendo de la tarea asignada, se puede optar por una o la otra.
 
-En un ejemplo claro y reciente de esto, tenemos [DeepSeek](https://github.com/deepseek-ai/DeepSeek-V3), no solamente buscaban ser otra implementación de un modelo de IA más, buscaron como implementarlo para correrlo en equipos de pocos recursos y así **ganarle** a OpenAI, ¿Y qué tiene que ver esto con Python? Solo basta con revisar en que lenguajes están principalmente escritos Deepseek y ChatGPT
+En un ejemplo claro y reciente de esto, tenemos [DeepSeek](https://github.com/deepseek-ai/DeepSeek-V3), no solamente buscaban ser otra implementación de un modelo de IA más, buscaron como implementarlo para correrlo en equipos de pocos recursos, además de ser software libre, y así **ganarle** a OpenAI, ¿Y qué tiene que ver esto con Python? Solo basta con revisar en que lenguajes están principalmente escritos Deepseek y ChatGPT
 
 ![Deepseek Python](img/C1_Deepseek_Python.png)
 
