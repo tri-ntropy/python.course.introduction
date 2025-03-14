@@ -1,5 +1,13 @@
 # Introducción a Python
 
+Python fue originalmente lanzado en febrero de 1991 por Guido von Rossum 
+
+![GvR](img/C1_creador.jpg)
+
+El nombre de Python fue originalmente tomado de los Monty Python Flying Circus
+
+![Monty Python](img/C1_Monty_Python.jpg)
+
 ## ¿Qué es Python?
 
 * Es un lenguaje de programación de propósito general
@@ -27,7 +35,7 @@ Aunque se pueden encontrar situaciones donde los espacios en blanco en efecto pu
 
 * *Python no te deja pensar*
 
-Gracias al universo de bibliotecas de Python, es muy común el siguiente chiste
+Gracias al universo de bibliotecas de Python, es muy común encontrar el siguiente chiste
 
 ```bash
 import solution
@@ -40,6 +48,10 @@ En un ejemplo claro y reciente de esto, tenemos [DeepSeek](https://github.com/de
 ![Deepseek Python](img/C1_Deepseek_Python.png)
 
 ![ChatGPT Python](img/C1_Chatgpt_Python.png)
+
+* **Pero a mi me gusta hacer las cosas por mi mismo, y Python no te deja, ¡Siempre hay que importar alguna biblioteca!**
+
+¿Entonces por qué no programas directamente en ensamblador o binario?
 
 * **¡Python es un caos!, ¿Cual usar, Python 2.X.X o Python 3.X.X?**
 
