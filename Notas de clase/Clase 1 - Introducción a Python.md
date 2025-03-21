@@ -49,12 +49,11 @@ En un ejemplo claro y reciente de esto, tenemos [DeepSeek](https://github.com/de
 
 ![ChatGPT Python](img/C1_Chatgpt_Python.png)
 
-* **Pero a mi me gusta hacer las cosas por mi mismo, y Python no te deja, ¡Siempre hay que importar alguna biblioteca!**
+* *Pero a mi me gusta hacer las cosas por mi mismo, y Python no te deja, ¡Siempre hay que importar alguna biblioteca!*
 
 ¿Entonces por qué no programas directamente en ensamblador o binario? En ensamblador no tienes siquiera ciclos for y muchas estructuras de datos básicas y ya dadas en cualquier lenguaje de alto nivel necesitan ser implementadas directamente por el desarrollador. Solo en ensamblador y binario puedes argumentar realmente que haces todo por ti mismo. 
 
-* **¡Python es un caos!, ¿Cual usar, Python 2.X.X o Python 3.X.X?**
+* *¡Python es un caos!, ¿Cual usar, Python 2.X.X o Python 3.X.X?*
 
-Cuando se lanzó Python 3 hubo demasiados conflictos ya que el lenguaje sufrió una serie de cambios que rompieron la compatibilidad con demasiados proyectos que en ese entonces estaban escritos en Python 2.X.X. Durante años esto generaba fuertes discusiones pero ya no más, desde el primero de enero del año 2020, Python 2.X.X detuvo su desarrollo y prácticamente ningún proyecto serio que siga en desarrollo o mantenimiento usa Python 2.X.X. Así que diganle a su amigo
- las más recientes [noticias](https://pythonclock.org/), ya solo se usa Python 3.X.X.
+Cuando se lanzó Python 3 hubo demasiados conflictos ya que el lenguaje sufrió una serie de cambios que rompieron la compatibilidad con demasiados proyectos que en ese entonces estaban escritos en Python 2.X.X. Durante años esto generaba fuertes discusiones pero ya no más, desde el primero de enero del año 2020, Python 2.X.X detuvo su desarrollo y prácticamente ningún proyecto serio que siga en desarrollo o mantenimiento usa Python 2.X.X. Así que diganle a su amigo las más recientes [noticias](https://pythonclock.org/), ya solo se usa Python 3.X.X.
 
