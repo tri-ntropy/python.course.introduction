@@ -5,9 +5,30 @@ Repositorio con los materiales para el curso.
 
 ## Contenido
 
-- **Cuadernos autocontenidos:** La mayoría de las clases están contenidas en un archivo `.ipynb` (mejor conocido como jupyter notebook o simplemente notebook) listo para ejecutar.
-- **Enlaces a recursos externos:** Tutoriales, artículos históricos y herramientas en la nube.
-- **Configuraciones avanzadas (opcional):** Soporte para Pipenv y Conda
+- **Cuadernos autocontenidos:** 
+
+La mayoría de las clases están contenidas en archivos `.md` (markdown) y `.ipynb` (notebook).
+Explora los markdown para que tu también puedas escribirlo y ejecuta los notebooks paso a paso para comprender mejor que se esta tratando.
+
+## Recursos extras
+
+* Markdown
+
+[Markdown Guide](https://www.markdownguide.org/basic-syntax/)
+Guía de la sintaxis básica (recomiendo explorar la página completa para más información)
+
+* LaTeX
+
+[The Not So Short Introduction to LATEX 2ε](https://gking.harvard.edu/files/lshort2.pdf)
+Libro gratuito que explica eficientemente las ideas básicas de LaTeX
+
+[El wikibook de LaTeX](https://en.wikibooks.org/wiki/LaTeX). Lo recomiendo principalmente para consulta
+
+[LaTeX Equations](https://latex.to/)
+Como principalmente en el curso estaremos usando LaTeX en Markdown
+para escribir alguna ecuación, no es realmente necesario instalar LaTeX
+ni un editor dedicado, por lo cual pueden practicar escribiendo ecuaciones
+con esta herramienta en línea
 
 ---
 
