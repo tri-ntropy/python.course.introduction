@@ -8,7 +8,7 @@ Repositorio con los materiales para el curso.
 - **Cuadernos autocontenidos:** 
 
 La mayoría de las clases están contenidas en archivos `.md` (markdown) y `.ipynb` (notebook).
-Explora los markdown para que tu también puedas escribirlo y ejecuta los notebooks paso a paso para comprender mejor que se esta tratando.
+Explora los archivos markdown para que tu también, poco a poco, vayas aprendiendo a escribirlo y ejecuta los notebooks paso a paso para comprender mejor que se esta tratando.
 
 ## Recursos extras
 
