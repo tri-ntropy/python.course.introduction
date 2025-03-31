@@ -57,6 +57,22 @@ Estas opciones son importante por las siguientes razones:
 
 1. Descargar el instalador de línea de comandos (el primero para la gran mayoría de usuarios) ![Instalador Conda de Distribuciones Linux](img/C0_Instalador_Linux.jpg)
 
+2. Al terminar de descargar, abrir un terminal en la ruta donde está el archivo y ejecutar
+
+```bash
+bash ./<nombre_del_archivo>.sh
+```
+
+donde
+
+```bash
+<nombre_del_archivo>
+```
+
+es el nombre correspondiente que tenga el instalador.
+
+3. Una vez ejecutandose el instalador, mantener oprimido *enter* hasta que te pregunte si quieres instalar 
+
 ## Git
 
 [Git](https://git-scm.com/downloads) es el software de control de versiones de proyectos más comúnmente empleado, con una gran compatibilidad de software de terceros que van desde los repositorios en línea como GitHub, GitLab y Azure, y editores de texto como VS Code o PyCharm. 
@@ -109,7 +125,7 @@ Veremos como instalarlo tanto para Windows como distribuciones Linux
 
 ### Para Linux
 
-El proceso en Linux es muy sencillo, simplemente ir a la terminal y ejecutar
+El proceso en Linux (para distribuciones basadas en Ubuntu/Debian) es muy sencillo, simplemente ir a la terminal y ejecutar
 
 ```bash
 sudo apt install git
@@ -151,7 +167,7 @@ A continuación veremos su proceso de instalación.
 
 2b. Si tu distribución no tiene un instalador gráfico de paquetes, seguir las instrucciones según tu distribución de la página oficial [Instrucciones para instalación en Linux](https://code.visualstudio.com/docs/setup/linux#_install-vs-code-on-linux)
 
-
+__________________________________________________________
 
 Con estas tres piezas de software correctamente instaladas en el equipo, ya es momento de empezar a trabajar en nuestro **flujo de trabajo**.
 
