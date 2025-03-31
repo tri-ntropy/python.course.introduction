@@ -143,7 +143,15 @@ A continuación veremos su proceso de instalación.
 
 ### Para Linux
 
-Proximamente...
+1. Descargamos VS Code para la distribución Linux que estés usando: para basadas en Ubuntu/Debian, el archivo .deb; para basadas en Fedora/Red Hat, el archivo .rpm.
+
+![Descarga VS Code de Windows](img/C0_vscode_Linux_descarga.png)
+
+2a. Si tu distribución ya tiene un instalador gráfico de paquetes, simplemente hacer clic e instalar.
+
+2b. Si tu distribución no tiene un instalador gráfico de paquetes, seguir las instrucciones según tu distribución de la página oficial [Instrucciones para instalación en Linux](https://code.visualstudio.com/docs/setup/linux#_install-vs-code-on-linux)
+
+
 
 Con estas tres piezas de software correctamente instaladas en el equipo, ya es momento de empezar a trabajar en nuestro **flujo de trabajo**.
 
